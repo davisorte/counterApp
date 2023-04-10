@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <PrimeraApp/> debe de mostrar el titulo en un p 1`] = `
+<div>
+  <p>
+    David Orea Alvarez
+  </p>
+  <h1
+    data-testid="test-title"
+  >
+    Hola que hay bajo el agua
+  </h1>
+  <p>
+    No hay subtitulo
+  </p>
+  <p>
+    No hay subtitulo
+  </p>
+</div>
+`;

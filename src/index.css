@@ -1,0 +1,14 @@
+html,body{
+  /*Ordenar alfabeticamente*/
+  color: white;
+  background-color: #21232a;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.3rem;
+  padding: 70px;
+}
+button{
+  background-color: royalblue;
+  font-size: 1.3rem;
+  padding: 10px 25px;
+  border-radius: 7px;
+}
